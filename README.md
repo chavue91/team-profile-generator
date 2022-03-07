@@ -17,3 +17,6 @@ Once the code is cloned, install the necessary node modules and run node index.j
 [Github Repo Link](https://github.com/chavue91/team-profile-generator)
 
 ## Application Preview
+[Demo Video](https://drive.google.com/file/d/1dufZwmOghdPJ977FnPRk255ABnPxdmjL/view?usp=sharing)
+
+![team-portfolio-generator]()
