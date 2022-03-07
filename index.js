@@ -143,7 +143,7 @@ const promptEngineer = teamData => {
             {
                 type: 'confirm',
                 name: 'confirmAddEmployee',
-                message: 'Would you like to enter another project?',
+                message: 'Would you like to enter another Engineer?',
                 default: false
             }
         ])
@@ -230,7 +230,7 @@ const promptIntern = internData => {
             {
                 type: 'confirm',
                 name: 'confirmAddIntern',
-                message: 'Would you like to enter another project?',
+                message: 'Would you like to enter another Intern?',
                 default: false
             }
         ])
