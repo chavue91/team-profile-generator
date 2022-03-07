@@ -83,7 +83,7 @@ const promptEmployee = teamData => {
         return inquirer.prompt([
             {
                 type: 'list',
-                name: 'confirmEmployee',
+                name: 'employeePosition',
                 message: 'Would you like to add an Engineer or Intern to your team?',
                 choices: ['Engineer', 'Intern', 'Finish building my team'],
                 default: 'Finish building my team'
